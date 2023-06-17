@@ -8,7 +8,7 @@ We chose the hotel industry as our domain. We tried to implement basic Python co
 PURPOSE OF THE PROJECT
 The purpose of the project is to understand how python can be used in real-world scenarios, in this case, hotels. The aim was to develop a program which is more user friendly and even stores data for the future use of both the customer and the hotel admins. The main purpose of this assignment was to make us understand how simple components like loops, lists, operators, conditional statements, user defined functions, etc can be used to develop programs which makes our day to day lives easier and these tedious process efficient. The project also gives us a glimpse into how data is can be storted in different way. 
 
-PROGRAM DESCRIPTIONA AND STEPWISE EXPLANATION
+PROGRAM DESCRIPTION AND STEPWISE EXPLANATION
 1) Libraries used
 2) List Declaration
 3) Functions Defined
