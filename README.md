@@ -26,7 +26,7 @@ PROGRAM DESCRIPTION AND STEPWISE EXPLANATION
    - p :- It is the payment status. If p = 0, payment is not done and if p = 1, then payment has been made
    - r :- It is a list which has the individual food items price which is then used to calculate the final price  
 4) Functions Defined
-   - date()
+   - date() :- The function is used to check if the user has put a valid date or not, i.e., if the date exists or not. It is called in the booking function where the number of days are calculated using datetime library. 
    - Booking() 
    - Rooms_Info()
    - Menu_Card()
