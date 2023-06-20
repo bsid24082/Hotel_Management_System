@@ -42,9 +42,9 @@ PROGRAM DESCRIPTION AND STEPWISE EXPLANATION
   
    -> Payment_portal(): The function contains the outstanding amount our customer must pay while checking out. The restaurant charges linked to that Customer ID are added to the Room price, and a Grand Total is provided after calling the function. It asks for various payment methods like UPI, Credit/Debit cards or old-fashioned Cash...Once the customer agrees to the bill generated and enters "yes", the payment gets processed, and a confirmation message is printed.
 
-   ->  BK_Records(): 
-   ->  addto(): 
-   ->  Display():
+   ->  BK_Records(): The function displays the records of customers which include name, phone number, address, check in date, check out date, room type and total expenditure of the customer. It is formatted in a way that it is in the form of a table.
+   ->  addto(): The function creates a dictionary which stores the data of each customer. It then converts the dictionary to a dataframe. Then we convert the dataframe to a csv file.
+   ->  Display(): This function displays the csv file. It reads the csv file and then displays it.
    ->  Christ_Lodging(): This function is the main function body which calls all the above user-defined functions, and then, by taking the values from the user, executes the program and gives us the interface experience to interact with our code and help us book hotel rooms and also keep track of booking and providing the bills and payment portals.
      
 
