@@ -28,9 +28,8 @@ PROGRAM DESCRIPTION AND STEPWISE EXPLANATION
    - cust_id :- It is a unique customer ID which is assigned to each customer
    - Num_days :- The number of days each customer stayed, which is calculated using check-in and check-out date
    - rc :- It is the amount of money each customer spent at the restaurant during their stay
-   - p :- It is the payment status. If p = 0, payment is not made, and if p = 1, then payment has been made
-   - r :- It is a list with the individual food item's price, which is then used to calculate the final price.
- 
+   - p :- It is the payment status. If p = 0, payment is not made, and if p = 1, then payment has been made.
+
      
 4) Functions Defined
 
